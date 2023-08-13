@@ -15,3 +15,5 @@ Database link : https://drive.google.com/file/d/1GR9b_hMZRGo9PZV08KqU4m1wewlEtva
 
 ## Database Schema
 ![erd](https://github.com/tanayakundu28/Music-Store/assets/99383059/461796bd-d695-41f7-9c5d-82190e2d2fde)
+
+Thanks for reading!
